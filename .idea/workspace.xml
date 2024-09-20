@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be8605eb-1b09-4ccd-97ec-3e454e41a4c0" name="Changes" comment="" />
+    <list default="true" id="be8605eb-1b09-4ccd-97ec-3e454e41a4c0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,19 +37,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Maven.spring-mvc-app1 [org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.spring-mvc-app1 [package].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Smart Tomcat.Unnamed.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Maven.spring-mvc-app1 [org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean].executor": "Run",
+    "Maven.spring-mvc-app1 [package].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Smart Tomcat.Unnamed.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore_missing_gitignore": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Eliza/.c0d3/Java/paterndao2",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" nameIsGenerated="true">
       <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
@@ -58,12 +61,15 @@
       <option name="catalinaBase" value="C:\Users\Eliza\.SmartTomcat\patterndao\spring-mvc-app1" />
       <option name="contextPath" value="/" />
       <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
       <option name="extraClassPath" value="" />
       <option name="tomcatInfo">
         <TomcatInfo>
-          <option name="name" value="Apache Tomcat/10.1.29" />
-          <option name="path" value="$PROJECT_DIR$/../../../apache-tomcat-10/apache-tomcat-10.1.29" />
-          <option name="version" value="10.1.29.0" />
+          <option name="name" value="Apache Tomcat/10.1.25" />
+          <option name="path" value="$PROJECT_DIR$/../apache-tomcat-10.1.25" />
+          <option name="version" value="10.1.25.0" />
         </TomcatInfo>
       </option>
       <option name="vmOptions" value="" />
